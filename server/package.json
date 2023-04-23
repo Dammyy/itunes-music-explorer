@@ -1,0 +1,25 @@
+{
+  "name": "itunes-music-explorer",
+  "version": "1.0.0",
+  "description": "Simple app to search for Artists, Albums, and/or Songs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dammyy/itunes-music-explorer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dammyy/itunes-music-explorer/issues"
+  },
+  "homepage": "https://github.com/Dammyy/itunes-music-explorer#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
