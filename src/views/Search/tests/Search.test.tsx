@@ -1,7 +1,7 @@
 import React from 'react'
 import { screen } from '@testing-library/react'
-import { renderWithProviders } from '../../test-utils'
-import Search from '../Search/Search'
+import { renderWithProviders } from '../../../test-utils'
+import Search from '../Search'
 
 const mockData = [{
   artistName: 'Burna Boy',

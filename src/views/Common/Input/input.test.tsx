@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { render, screen } from '@testing-library/react';
 
-import BasicTextField from '..';
+import BasicTextField from '.';
 
 describe('Button Component', () => {
   it('renders button component', () => {

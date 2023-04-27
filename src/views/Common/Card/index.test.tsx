@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { render, screen } from '@testing-library/react'
 
-import Card from '..'
+import Card from '.'
 
 describe('Card Component', () => {
   const data = {
